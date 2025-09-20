@@ -4,7 +4,7 @@ Create a network simulation with two separate networks connected via a router us
 
 ## Network Diagram
 
-![diagram-export-2-7-2025-2_46_18-PM](https://github.com/user-attachments/assets/6cc9d8d7-2470-4754-b749-d57284000b20)
+![](./images/architecture.png)
 
 ## How to use it?
 
